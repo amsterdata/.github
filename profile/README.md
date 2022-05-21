@@ -1,6 +1,4 @@
-Research on data management for machine learning at the University of Amsterdam (as part of INDELab/IRLab). 
-
-Checkout our recent projects:
+Research on data management for machine learning at the University of Amsterdam (as part of INDELab/IRLab). Checkout our recent projects:
  
 ### [mlinspect](github.com/amsterdata/mlinspect) 
  
