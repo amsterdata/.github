@@ -1,4 +1,4 @@
-Research on [responsible data management](https://dl.acm.org/doi/pdf/10.1145/3488717) for machine learning at the University of Amsterdam (as part of INDELab/IRLab). Checkout our recent and ongoing projects:
+Research on **data management for machine learning** at the University of Amsterdam (as part of INDELab). Checkout our recent and ongoing projects:
  
  * __[mlinspect](https://github.com/amsterdata/mlinspect)__ allows the instrumentation and inspection of native ML pipelines written in Python with pandas, sklearn and keras. 
  
